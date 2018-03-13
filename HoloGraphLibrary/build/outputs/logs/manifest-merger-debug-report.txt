@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml:1:1-4:12
+INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml:1:1-4:12
+INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml:2:5-40
+		INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+		INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+		ADDED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+		INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+		ADDED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml
+		INJECTED from E:\TRUNG TIN\WebSocket\HoloGraphLibrary\AndroidManifest.xml

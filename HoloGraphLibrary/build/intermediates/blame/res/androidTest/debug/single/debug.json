@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\TRUNG TIN\\WebSocket\\HoloGraphLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "E:\\TRUNG TIN\\WebSocket\\HoloGraphLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TRUNG TIN\\WebSocket\\HoloGraphLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_popup_black.9.png.flat",
+        "source": "E:\\TRUNG TIN\\WebSocket\\HoloGraphLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\popup_black.9.png"
+    },
+    {
+        "merged": "E:\\TRUNG TIN\\WebSocket\\HoloGraphLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "E:\\TRUNG TIN\\WebSocket\\HoloGraphLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    }
+]

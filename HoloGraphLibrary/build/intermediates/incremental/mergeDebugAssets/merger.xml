@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\TRUNG TIN\WebSocket\HoloGraphLibrary\assets"/><source path="E:\TRUNG TIN\WebSocket\HoloGraphLibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\TRUNG TIN\WebSocket\HoloGraphLibrary\src\debug\assets"/></dataSet></merger>
